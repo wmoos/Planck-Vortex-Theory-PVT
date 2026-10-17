@@ -19,6 +19,11 @@ This hierarchical form emphasizes that PVT serves as the ontological generator f
 
 ## Keywords
 continuum-model, monistic-continuum-model, wmoos, Moosbrugger Walter, Wels, AT, Physik, Kosmos, Universum, Ontologie, Theorie, Preprints, continuum-physics, projection-vector-theory, planck-vortex-theory, pvt, mcm, operator-ontology, geometric-ontology, rotational-dynamics, pre-spatial-medium, continuum-rotation, projection-mechanisms, unified-physical-correspondence, dark-matter, electron-entanglement, black-holes, theoretical-physics, mathematical-physics, ontology-framework, continuum-dynamics, Klassische Mechanik, Elektromagnetismus, Thermodynamik, Statistische Mechanik, Spezielle Relativitätstheorie, Allgemeine Relativitätstheorie, Quantenmechanik, Standardmodell der Teilchenphysik, Kosmologie, Stringtheorie, Quantengravitation
+---
+
+## Author
+**Walter Moosbrugger**  
+Independent Researcher, Wels AT 
 
 
 
