@@ -18,38 +18,8 @@ This hierarchical form emphasizes that PVT serves as the ontological generator f
 → Monistic Continuum Model (MCM): V07 (DE) (https://doi.org/10.5281/zenodo.22130345)
 
 ## Keywords
-continuum-model  
-monistic-continuum-model  
-continuum-physics  
-projection-vector-theory  
-planck-vortex-theory  
-pvt  
-mcm  
-operator-ontology  
-geometric-ontology  
-rotational-dynamics  
-pre-spatial-medium  
-continuum-rotation  
-projection-mechanisms  
-unified-physical-correspondence  
-dark-matter  
-electron-entanglement  
-black-holes  
-theoretical-physics  
-mathematical-physics  
-ontology-framework  
-continuum-dynamics
-Klassische Mechanik
-Elektromagnetismus
-Thermodynamik
-Statistische Mechanik
-Spezielle Relativitätstheorie
-Allgemeine Relativitätstheorie
-Quantenmechanik
-Standardmodell der Teilchenphysik
-Kosmologie
-Stringtheorie
-Quantengravitation
+continuum-model, monistic-continuum-model, continuum-physics, projection-vector-theory, planck-vortex-theory, pvt, mcm, operator-ontology, geometric-ontology, rotational-dynamics, pre-spatial-medium, continuum-rotation, projection-mechanisms, unified-physical-correspondence, dark-matter, electron-entanglement, black-holes, theoretical-physics, mathematical-physics, ontology-framework, continuum-dynamics, Klassische Mechanik, Elektromagnetismus, Thermodynamik, Statistische Mechanik, Spezielle Relativitätstheorie, Allgemeine Relativitätstheorie, Quantenmechanik, Standardmodell der Teilchenphysik, Kosmologie, Stringtheorie, Quantengravitation
+
 
 
 
