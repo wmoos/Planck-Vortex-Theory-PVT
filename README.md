@@ -14,3 +14,5 @@ In this release, the structural organization of the Monistic Continuum Model (MC
 
 
 This hierarchical form emphasizes that PVT serves as the ontological generator for all emergent physical theories within the MCM framework. Each module inherits its structural consistency from MCM ⇒ PVT, ensuring that all derived theories remain compatible with the continuum ontology and the projection‑based interpretation of physical phenomena.
+
+→ Monistic Continuum Model (MCM): V07 (DE) (https://doi.org/10.5281/zenodo.22130345)
