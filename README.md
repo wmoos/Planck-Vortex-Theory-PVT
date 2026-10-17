@@ -4,12 +4,19 @@ This version consolidates the essential definitions, axioms, and transformation 
 
 In this release, the structural organization of the Monistic Continuum Model (MCM) has been updated to reflect a clearer hierarchical ontology. The new structure places the Planck‑Wirbel Theory (PVT) as the central generative framework within MCM, from which all subsequent theoretical modules emerge. The updated structure is:
 
-MCM V07 (EN) → DOI: 10.5281/zenodo.22128163
-  ↳ PVT V05 (EN) → DOI: 10.5281/zenodo.22297941
-      ↳ UPC V05 (EN) → DOI: 10.5281/zenodo.22542613
-      ↳ DM V03 (EN) → DOI: 10.5281/zenodo.23096493
-      ↳ EE V05 (EN) → DOI: 10.5281/zenodo.22911345
-      ↳ BL V01 (EN) → ToDo
-      ↳ …
+- **Monistic Continuum Model (MCM): V07 (EN)**  
+  DOI: 10.5281/zenodo.22128163
+  - **Planck‑Wirbel Theory (PVT): V05 (EN)**  
+    DOI: 10.5281/zenodo.22297941
+    - **Unified Physical Correspondence (UPC): V05 (EN)**  
+      DOI: 10.5281/zenodo.22542613
+    - **Dark Matter (DM): V03 (EN)**  
+      DOI: 10.5281/zenodo.23096493
+    - **Electron Entanglement (EE): V05 (EN)**  
+      DOI: 10.5281/zenodo.22911345
+    - **Black Holes (BL): V01 (EN)**  
+      ToDo
+    - …
+
 
 This hierarchical form emphasizes that PVT serves as the ontological generator for all emergent physical theories within the MCM framework. Each module inherits its structural consistency from MCM ⇒ PVT, ensuring that all derived theories remain compatible with the continuum ontology and the projection‑based interpretation of physical phenomena.
