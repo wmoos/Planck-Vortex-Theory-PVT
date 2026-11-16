@@ -1,55 +1,20 @@
-
-Overview
-Title
-Planck–Vortex Theory (PVT) Version 06
-
-Subtitle
-The Proton–Electron–Neutron Correspondence Principle
-
-Central Thesis
-
-The theory proposes that spinorial behavior originates from organizational complementarity rather than from a fundamental mathematical phase.
-
-Main Results
-
-Double Identity Theorem
-Figure-Eight Geometry
-Organizational Spinor Correspondence
-SU(2) Correspondence
-Hydrogen as QR–ART Correspondence Object
-THEORETICAL-CORE
- 
-P⁺ ↔ e⁻ ↔ N
-        ↓
-P → e⁻ → N→e⁻→ P
-        ↓
-A² = I
-        ↓
-P ↔ N
-        ↓
-ψ ↔ −ψ
-        ↓
-SU(2)
-        ↓
-Hydrogen
-        ↓
-QR ↔ ART
-Short Zenodo Summary
-The Proton–Electron–Neutron Correspondence Principle proposes that the organizational structure
-
-constitutes the fundamental spinorial organization of nucleonic matter.
-
-The organizational cycle
-
-generates a double identity
-
-which is interpreted as the physical origin of spinorial behavior.
-
-Within the Monistic Continuum Model, Hydrogen emerges as the first stable realization of this correspondence structure and forms the transition between QR Physics and ART Physics.
-
-MCM10.1
-
-Keywords:
-
-Planck–Vortex Theory, PVT, PVT_V06_EN, Monistic Continuum Model, MCM, Proton, Neutron, Electron, Hydrogen, Spinor, SU(2), Double Identity, Organizational Physics, Emergence Theory, QR Physics, ART Physics, Figure-Eight Geometry, Nucleon Complementarity, Organizational Correspondence Principle, Continuum Dynamics, Vortex Theory, Hydrogen Correspondence, Organizational Geometry, Complementarity, Spinorial QR Physics
-
+| MCM MASTER 10.1 | CURRENT MCM EMERGENCE CHAIN | PVT_V06_EN |
+|---|---|---|
+| **The Monistic Continuum Model (MCM Master 10.1)** provides the ontological foundation of the entire theoretical framework. | **D = (Space, Medium, Dynamics = Light)** | **Planck–Vortex Theory Version 06** introduces the Proton–Electron–Neutron Correspondence Principle. |
+| It defines the Continuum | ↔ Residual Vortex | Central Correspondence Structure |
+| **D = (Space, Medium, Dynamics = Light)** | ↔ Quark Vortex | **P⁺ ↔ e⁻ ↔ N** |
+| as the single fundamental reality from which all organizational structures emerge. | ↔ Nucleon Vortex | The central cycle becomes |
+| The MCM establishes QR Physics, ART Physics, emergence hierarchies, and Hydrogen as the correspondence object between both domains. | ↔ Proton State ↕ Light → e⁻ Quantum ↕ Neutron State | **P → e⁻ → N → e⁻ → P** |
+| All later theories are developments within this framework. | ↔ P⁺ ↔ e⁻ ↔ N | Result: |
+| The Proton–Electron–Neutron Correspondence Principle does not replace MCM Master 10.1. | ↔ Hydrogen | **A² = I** |
+| It refines the spinorial sector of the theory while preserving the continuum ontology. | ↔ H₂ | The theory establishes |
+| The fundamental organizational cycle remains: | ↔ Atoms | **P ↔ N ≡ ψ ↔ −ψ** |
+| **D ↔ Organization ↔ D** | ↔ Molecules | This replaces the previous spinor-development roadmap of PVT V05. |
+| | ↔ Macroscopic Matter | The theory serves as the new organizational foundation of spinorial QR Physics. |
+| | ↔ Planets | Future work focuses on: |
+| | ↔ Stars | • Hydrogen formation |
+| | ↔ Galaxies | • Cluster emergence |
+| | ↔ Cosmic Networks | • Organizational complementarity |
+| | ↔ D | • QR ↔ ART transitions |
+| | | • Quantitative predictions |
+| | | • Experimental validation |
