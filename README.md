@@ -1,32 +1,55 @@
-The document PVT_V05_EN presents the foundational structure of the Projection Vector Theory (PVT), defining its ontological framework, operator system, and continuum‑based interpretation of physical phenomena. It introduces the pre‑spatial medium, the rotational frequency constructs, and the projection mechanisms that generate observable physical quantities. The work establishes a consistent operator‑based ontology and provides the theoretical groundwork for subsequent PVT modules.
 
-This version consolidates the essential definitions, axioms, and transformation rules required to understand the PVT continuum and its projection dynamics. It is intended as a reference for researchers working on theoretical physics, continuum models, and operator‑based frameworks.
+Overview
+Title
+Planck–Vortex Theory (PVT) Version 06
 
-In this release, the structural organization of the Monistic Continuum Model (MCM) has been updated to reflect a clearer hierarchical ontology. The new structure places the Planck‑Wirbel Theory (PVT) as the central generative framework within MCM, from which all subsequent theoretical modules emerge. The updated structure is:
+Subtitle
+The Proton–Electron–Neutron Correspondence Principle
 
-- **Monistic Continuum Model (MCM): V07 (EN)** DOI: https://doi.org/10.5281/zenodo.22128163
-  - **Planck‑Wirbel Theory (PVT): V05 (EN)** DOI: https://doi.org/10.5281/zenodo.23434159 
-    - **Unified Physical Correspondence (UPC): V05 (EN)** DOI: https://doi.org/10.5281/zenodo.22542613
-    - **Dark Matter (DM): V03 (EN)** DOI: https://doi.org/10.5281/zenodo.23096493
-    - **Electron Entanglement (EE): V05 (EN)** DOI: https://doi.org/10.5281/zenodo.22911345
-    - **Black Holes (BL): V01 (EN)** ToDo
-    - …
+Central Thesis
 
+The theory proposes that spinorial behavior originates from organizational complementarity rather than from a fundamental mathematical phase.
 
-This hierarchical form emphasizes that PVT serves as the ontological generator for all emergent physical theories within the MCM framework. Each module inherits its structural consistency from MCM ⇒ PVT, ensuring that all derived theories remain compatible with the continuum ontology and the projection‑based interpretation of physical phenomena.
+Main Results
 
-→ Monistic Continuum Model (MCM): V07 (DE) (https://doi.org/10.5281/zenodo.22130345)
+Double Identity Theorem
+Figure-Eight Geometry
+Organizational Spinor Correspondence
+SU(2) Correspondence
+Hydrogen as QR–ART Correspondence Object
+THEORETICAL-CORE
+ 
+P⁺ ↔ e⁻ ↔ N
+        ↓
+P → e⁻ → N→e⁻→ P
+        ↓
+A² = I
+        ↓
+P ↔ N
+        ↓
+ψ ↔ −ψ
+        ↓
+SU(2)
+        ↓
+Hydrogen
+        ↓
+QR ↔ ART
+Short Zenodo Summary
+The Proton–Electron–Neutron Correspondence Principle proposes that the organizational structure
 
-**Keywords:**
+constitutes the fundamental spinorial organization of nucleonic matter.
 
-continuum-model, monistic-continuum-model, wmoos, Moosbrugger Walter, Wels, AT, Physik, Kosmos, Universum, Ontologie, Theorie, Preprints, continuum-physics, projection-vector-theory, planck-vortex-theory, pvt, mcm, operator-ontology, geometric-ontology, rotational-dynamics, pre-spatial-medium, continuum-rotation, projection-mechanisms, unified-physical-correspondence, dark-matter, electron-entanglement, black-holes, theoretical-physics, mathematical-physics, ontology-framework, continuum-dynamics, Klassische Mechanik, Elektromagnetismus, Thermodynamik, Statistische Mechanik, Spezielle Relativitätstheorie, Allgemeine Relativitätstheorie, Quantenmechanik, Standardmodell der Teilchenphysik, Kosmologie, Stringtheorie, Quantengravitation
+The organizational cycle
 
-**Author:**
+generates a double identity
 
-Walter Moosbrugger  
-Independent Researcher, Wels AT 
+which is interpreted as the physical origin of spinorial behavior.
 
+Within the Monistic Continuum Model, Hydrogen emerges as the first stable realization of this correspondence structure and forms the transition between QR Physics and ART Physics.
 
+MCM10.1
 
+Keywords:
 
+Planck–Vortex Theory, PVT, PVT_V06_EN, Monistic Continuum Model, MCM, Proton, Neutron, Electron, Hydrogen, Spinor, SU(2), Double Identity, Organizational Physics, Emergence Theory, QR Physics, ART Physics, Figure-Eight Geometry, Nucleon Complementarity, Organizational Correspondence Principle, Continuum Dynamics, Vortex Theory, Hydrogen Correspondence, Organizational Geometry, Complementarity, Spinorial QR Physics
 
