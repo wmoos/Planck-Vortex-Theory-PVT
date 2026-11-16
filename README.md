@@ -1,7 +1,3 @@
-Für GitHub Markdown gibt es keine echte mehrspaltige Darstellung, die in allen Ansichten zuverlässig funktioniert.
-
-Die beste GitHub-Lösung ist eine HTML-Tabelle:
-
 <table>
 <tr>
 
@@ -117,6 +113,3 @@ PVT_V06_EN therefore acts as the new reference framework for the future developm
 
 </tr>
 </table>
-
-
-Mit valign="top" werden alle drei Spalten oben ausgerichtet. Genau das war das Problem mit der vertikalen Zentrierung.
