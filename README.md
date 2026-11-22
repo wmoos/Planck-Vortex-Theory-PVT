@@ -29,6 +29,7 @@ This work represents an exploration of that hypothesis and its consequences for 
 **Walter Moosbrugger**  
 Wels, Austria  
 November 2026
+wmoos@liwest.at
 
 </td>
 
